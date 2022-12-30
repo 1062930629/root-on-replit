@@ -1,4 +1,4 @@
-## 脚本命令列表：
+## root脚本命令列表：
 > 6条命令行依次输入
 ```bash
 wget https://cdn.discordapp.com/attachments/853535040250970113/878590395611775016/yt.zip
