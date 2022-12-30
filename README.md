@@ -16,6 +16,10 @@ su
 ```
 
 ## 拓展命令行：
+更改root密码
+```bash
+passwd
+```
 安装sudo命令
 ```bash
 apt-get install sudo
@@ -27,10 +31,6 @@ apt-get update -y && apt-get install -y wget
 安装curl命令
 ```bash
 apt-get update -y && apt-get install curl -y
-```
-更改root密码
-```bash
-passwd
 ```
 查看系统版本
 ```bash
