@@ -1,5 +1,6 @@
 # root-on-replit
-在线运行脚本命令：
+## 在线运行脚本命令：
+> 6条命令依次输入
 ```bash
 wget https://cdn.discordapp.com/attachments/853535040250970113/878590395611775016/yt.zip
 
@@ -15,7 +16,7 @@ su
 
 ```
 
-# 拓展命令行：
+## 拓展命令行：
 安装sudo命令
 ```bash
 apt-get install sudo
