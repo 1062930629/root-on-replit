@@ -32,3 +32,7 @@ apt-get update -y && apt-get install curl -y
 ```bash
 passwd
 ```
+查看系统版本
+```bash
+cat /etc/issue
+```
